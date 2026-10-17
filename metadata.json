@@ -1,0 +1,6 @@
+{
+  "name": "Glotta - Real-Time Polyglot Voice & Developer Translation",
+  "description": "Real-time multilingual voice translation, distributed audio rooms, collaborative code review, and live AI synthesis across global developer cohorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
